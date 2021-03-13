@@ -1,2 +1,3 @@
-# url-shortener
-A free website for url shortening
+# URL Shortener Website
+A free website for url shortening.
+Created by LapTrinhHoiKho with love <3...
